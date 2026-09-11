@@ -5,3 +5,4 @@
 * Salt
 ## Instructions
 Mash avocados
+* peel the avocadoes
